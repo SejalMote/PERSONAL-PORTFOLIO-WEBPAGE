@@ -41,12 +41,14 @@ Job Applications: Recruiters often request a portfolio link to evaluate skills a
 
 Freelancing: Clients check portfolios to assess a candidate’s ability before offering freelance gigs or remote contracts.
 
-*OUTPUT*:
-
-![Image](https://github.com/user-attachments/assets/89a03c4e-abaa-413e-9cd1-7fe525a06570)
-
 Networking: Sharing a portfolio site on LinkedIn or via QR code makes it easy to connect during hackathons, webinars, or events.
 
 Personal Branding: A custom domain and polished design help build a strong professional identity online.
 
 Creating a portfolio website demonstrates a clear understanding of frontend web development, UI/UX principles, and web hosting. It's not only a personal branding asset but also a proof-of-skill project that highlights creativity, technical proficiency, and attention to detail.
+
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/89a03c4e-abaa-413e-9cd1-7fe525a06570)
+
+
